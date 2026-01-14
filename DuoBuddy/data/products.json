@@ -1,0 +1,20 @@
+[
+  {
+    "id": "p1",
+    "name": "Black Matte Card",
+    "stock": 49,
+    "available": true
+  },
+  {
+    "id": "p2",
+    "name": "Gold Brushed Card",
+    "stock": 101,
+    "available": true
+  },
+  {
+    "id": "p3",
+    "name": "Silver Brushed Card",
+    "stock": 100,
+    "available": true
+  }
+]
